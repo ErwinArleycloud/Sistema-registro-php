@@ -37,14 +37,16 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <link rel="stylesheet"
+    href="estilos.css">
 <meta charset="UTF-8">
 <title>Registro</title>
 </head>
 <body>
-
 <?= $mensaje ?>
 
-<form id="formRegistro" method="POST">
+<form id="formRegistro"
+class="form-registro" method="POST">
     <label>Nombre:</label><br>
     <input type="text" name="nombre" required><br><br>
 
