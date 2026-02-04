@@ -92,13 +92,13 @@ El diseño del sitio incluye páginas como:
 
 
 
-## 🧠 Aprendizajes clave
+## 🧠 Resumen de lo que se uso y se aplico al proyecto
 
-* Integración entre frontend y backend
-* Validación doble (JavaScript + PHP)
-* Manejo de errores y mensajes al usuario
-* Uso práctico de Git y GitHub
-* Organización de un proyecto real orientado a empresa
+🟢 Integración entre frontend y backend
+🟢 Validación doble (JavaScript + PHP)
+🟢 Manejo de errores y mensajes al usuario
+🟢 Uso práctico de Git y GitHub
+🟢 Organización de un proyecto real orientado a empresa
 
 
 
