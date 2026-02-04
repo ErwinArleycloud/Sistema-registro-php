@@ -108,7 +108,7 @@ El diseño del sitio incluye páginas como:
 ### 📝 Registro de usuarios
 **Validación de contraseña (mínimo 6 caracteres)**
 
-![Registro inválido](images/Registro_nocumple_caracteres.png)
+![Registro inválido](images/registro_nocumple_caracteres.png)
 ![Registro válido](images/registro_cumplecaracteres.png)
 
 
