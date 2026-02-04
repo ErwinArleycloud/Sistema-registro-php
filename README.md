@@ -116,7 +116,7 @@ El diseño del sitio incluye páginas como:
 ### 🔐 Seguridad de contraseñas
 **Uso de password_hash() en PHP**
 
-![Código hashing](images/codigo_passwordhash.png)
+![Código hashing](images/Codigo_passwordhash.png)
 ![Contraseñas encriptadas en la base de datos](images/base_datos_passwordhash.png)
 
 
