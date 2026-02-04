@@ -17,7 +17,7 @@ Desarrollar un sistema web funcional que permita:
 🛠️ Tecnologías utilizadas
 
 👉 **HTML** – Estructura de formularios y páginas
- 👉**CSS** – Diseño visual personalizado y responsive
+ 👉**CSS** – Diseño visual personalizado 
  👉**JavaScript** – Validación de formularios en el cliente
  👉**PHP** – Lógica del servidor y procesamiento de datos
 👉**MySQL** – Almacenamiento de información
