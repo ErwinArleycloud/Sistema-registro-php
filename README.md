@@ -133,7 +133,7 @@ El diseño del sitio incluye páginas como:
 
 ## 👤 Autor
 
-**Erwin Arley Cuaspa**
+**Erwin Arley Delgado**
 Desarrollador en formación 
 
 
