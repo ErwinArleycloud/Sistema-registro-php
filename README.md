@@ -1,39 +1,39 @@
-# 📄 Sistema de Registro y Gestión de Documentos Legales
+#  Sistema de Registro y Gestión de Documentos Legales
 
-💻Proyecto desarrollado  orientado a  desarrollo backend, diseño de pagina  y control de versiones💻
+- Proyecto desarrollado  orientado a  desarrollo backend, diseño de pagina  y control de versiones
 
-🎯 Objetivo del proyecto
+ - Objetivo del proyecto:
 
-Desarrollar un sistema web funcional que permita:
+- Desarrollar un sistema web funcional que permita:
 
 ✅ Registro e inicio de sesión de usuarios
 ✅ Exploración y selección de documentos legales
 ✅Gestión de procesos de compra
 ✅Organización de roles (cliente / administrador)
 
-🤓👉El proyecto combina wordPress para el diseño de páginas, HTML y CSS personalizados, y PHP + MySQL + JavaScript para la lógica del sistema.
+- El proyecto combina wordPress para el diseño de páginas, HTML y CSS personalizados, y PHP + MySQL + JavaScript para la lógica del sistema.
 
 
-🛠️ Tecnologías utilizadas
+- Tecnologías utilizadas
 
-👉 **HTML** – Estructura de formularios y páginas
- 👉**CSS** – Diseño visual personalizado 
- 👉**JavaScript** – Validación de formularios en el cliente
- 👉**PHP** – Lógica del servidor y procesamiento de datos
-👉**MySQL** – Almacenamiento de información
-👉**WordPress** – Maquetación y diseño de múltiples páginas
-👉**Git & GitHub** – Control de versiones y repositorio
+ **HTML** – Estructura de formularios y páginas
+ **CSS** – Diseño visual personalizado 
+ **JavaScript** – Validación de formularios en el cliente
+ **PHP** – Lógica del servidor y procesamiento de datos
+**MySQL** – Almacenamiento de información
+**WordPress** – Maquetación y diseño de múltiples páginas
+**Git & GitHub** – Control de versiones y repositorio
 
 
- 📂 Funcionalidades desarrolladas
-                👇            
-### 🔐 Autenticación de usuarios
+ - Funcionalidades desarrolladas:
+                            
+###  Autenticación de usuarios
 
 🟢 Registro de usuario con validación en JavaScript
 🟢 Validación en backend con PHP
 🟢 Limpieza automática del formulario tras registro exitoso
 
-### 📑 Gestión de documentos legales
+###  Gestión de documentos legales
 
 📄 Página de documentos legales
 Visualización de documentos como:
@@ -42,7 +42,7 @@ Visualización de documentos como:
 📄Contrato laboral
 📄Poder legal
 
-### 🛒 Flujo de compra
+### Flujo de compra
 
 👉Carrito de compras
 👉 Confirmación de compra
@@ -51,7 +51,7 @@ Visualización de documentos como:
  👉 Transacciones
 
 
-## 🖥️ Páginas diseñadas en WordPress (25+)
+##  Páginas diseñadas en WordPress 
 
 El diseño del sitio incluye páginas como:
 
@@ -77,22 +77,22 @@ El diseño del sitio incluye páginas como:
 ✅ **Términos y condiciones**: Página que establece las normas, derechos y deberes relacionados con el uso de la plataforma.
 ✅ **Documentos legales**: Espacio destinado a documentos legales y normativos asociados a la plataforma.
 
-💻Todas estas páginas fueron **diseñadas visualmente en WordPress** y complementadas con **HTML y CSS personalizados**.💻
+- Todas estas páginas fueron diseñadas visualmente en WordPress y complementadas con HTML y CSS personalizados
 
 
 
- 🔵## 🎨 Diseño y estilos 🔵
+ - **Diseño y estilos** 
 
 ⭐ Uso de degradados azul–morado
 ⭐ Formularios con fondo oscuro translúcido
 ⭐ Estilo coherente en todo el sistema
 ⭐ CSS personalizado aplicado a formularios PHP
 
-🔭 El formulario de registro fue estilizado para integrarse completamente con el diseño visual del sitio.
+- El formulario de registro fue estilizado para integrarse completamente con el diseño visual del sitio.
 
 
 
-## 🧠 Resumen de lo que se uso y se aplico al proyecto
+##  Resumen de lo que se uso y se aplico al proyecto
 
 🟢 Integración entre frontend y backend
 🟢 Validación doble (JavaScript + PHP)
@@ -103,7 +103,7 @@ El diseño del sitio incluye páginas como:
 
 
 
-## 📸 Evidencias del proyecto
+##  Evidencias del proyecto
 
 ### 📝 Registro de usuarios
 **Validación de contraseña (mínimo 6 caracteres)**
@@ -121,12 +121,12 @@ El diseño del sitio incluye páginas como:
 
 
 
-### 🔑 Inicio de sesión
+###  Inicio de sesión
 ![Login](images/iniciar_sesion.png)
 
 
 
-### 🧭 Navegación del sistema
+###  Navegación del sistema
 ![Explorar](images/explorar.png)
 
 
